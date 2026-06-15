@@ -1,0 +1,5 @@
+127.0.0.1 - frank [10/Oct/2024:13:55:36 -0700] "GET /index.html HTTP/1.1" 200 2326 "-" "Mozilla/5.0"
+192.168.1.1 - - [10/Oct/2024:13:56:01 -0700] "POST /api/users HTTP/1.1" 500 512 "-" "curl/7.64.0"
+10.0.0.1 - admin [10/Oct/2024:13:56:15 -0700] "GET /api/orders HTTP/1.1" 404 128 "-" "PostmanRuntime/7.28"
+127.0.0.1 - frank [10/Oct/2024:13:57:00 -0700] "DELETE /api/users/1 HTTP/1.1" 500 256 "-" "Mozilla/5.0"
+192.168.1.1 - - [10/Oct/2024:13:58:10 -0700] "GET /health HTTP/1.1" 200 64 "-" "HealthChecker/1.0"

@@ -1,0 +1,5 @@
+{"level":"INFO","message":"Server started","timestamp":"2024-01-15T10:00:00Z","port":3000}
+{"level":"ERROR","message":"Database connection failed","timestamp":"2024-01-15T10:00:05Z","error":"ECONNREFUSED"}
+{"level":"WARN","message":"High memory usage","timestamp":"2024-01-15T10:01:00Z","usage":0.87}
+{"level":"ERROR","message":"Request timeout","timestamp":"2024-01-15T10:02:10Z","path":"/api/users","duration":30000}
+{"level":"INFO","message":"Request completed","timestamp":"2024-01-15T10:02:15Z","status":200}
